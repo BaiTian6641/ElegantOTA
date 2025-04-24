@@ -21,7 +21,9 @@
 <p>
 ElegantOTA provides a beautiful user interface to upload over-the-air firmware/filesystem updates to your hardware with precise status and progress. ElegantOTA is designed to make the process of OTA updates slick and simple!
 </p>
-
+<p>
+Planned self-pulling update from server through wifi or cellular.
+</p>
 <br/>
 <br/>
 
